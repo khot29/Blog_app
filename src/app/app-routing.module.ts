@@ -8,13 +8,13 @@ import { TermsAndConditionsComponent } from './pages/terms-and-conditions/terms-
 import { AboutUsComponent } from './pages/about-us/about-us.component';
 
 const routes: Routes = [
-  {path: '',component : HomeComponent},
-  {path: 'category',component : SingleCategoryComponent},
-  {path: 'post', component : SinglePostComponent},
-  {path: 'contact',component : ContactUsComponent},
-  {path : 'terms', component : TermsAndConditionsComponent},
-  {path: 'about', component: AboutUsComponent},
-  {path: '**', component : AboutUsComponent}
+  // {path: '',component : HomeComponent},
+  // {path: 'category',component : SingleCategoryComponent},
+  // {path: 'post', component : SinglePostComponent},
+  // {path: 'contact',component : ContactUsComponent},
+  // {path : 'terms', component : TermsAndConditionsComponent},
+  // {path: 'about', component: AboutUsComponent},
+  // {path: '**', component : AboutUsComponent}
 ];
 
 
